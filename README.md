@@ -1,5 +1,5 @@
 # Statistical-methods-for-surface-survival-time-of-SARS-CoV-2
-This repository accompanies the article "新冠病毒物体表面存活时间统计建模和评估方法" and provides code for OLS, BJ, MLE and Bayes methods from the paper.
+This repository accompanies the article "新冠病毒物体表面存活时间的统计建模和评估方法" and provides code for OLS, BJ, MLE and Bayes methods from the paper.
 The data used in paper is cited from the article "Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1".
 
 # reference
